@@ -7,7 +7,7 @@ with this toll, you can spam your friends
 # download driver Chrome and google Chrom
 
 
-download Chrome : https://www.google.com/chrome/
+download google Chrome : https://www.google.com/chrome/
 #
 download driver Chrome : https://chromedriver.chromium.org/downloads
 
