@@ -28,7 +28,7 @@ time = int(input("adad >>> "))
 for i in range(time):
     ex = driver.find_element_by_xpath("//span[@title ='{}']".format(name))
     ex.click
-    sleep(1)
+    # sleep(1)
     driver.find_elements_by_class_name('_2_1wd ')[1].send_keys(text, i)
-    sleep(0)
+    # sleep(0)
     driver.find_elements_by_class_name('_1E0Oz')[0].click()
