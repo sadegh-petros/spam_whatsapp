@@ -23,7 +23,7 @@ name = input("Name target >>> ")
 text = input("matn >>> ")
 time = int(input("adad >>> "))
 
-# input("ENTER TO START >>> ")
+input("ENTER TO START >>> ")
 
 for i in range(time):
     ex = driver.find_element_by_xpath("//span[@title ='{}']".format(name))
