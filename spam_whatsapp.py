@@ -11,7 +11,7 @@ class color :
 driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com")
 
-print(color.GREEN + "[0]" + color.WHITE + " create by " + color.RED + "MOHAMMAD.ZAREI \n")
+print(color.GREEN + "[0]" + color.WHITE + " create by " + color.RED + "SADEGH.PETROS & MOHAMMAD.ZAREI\n")
 
 input("ENTER >>> ")
 
